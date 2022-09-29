@@ -6,7 +6,7 @@ Aosenba Longchar & Milong Walling
 Department of Computer Science and Engineering  
 Under the guidance of Dr. Sibesh Lodh, Assitant Professor, NIT Nagaland.  
 
-The System is a independent Theft Detection and Tracking device which can be mounted in any type of automotive vehicle. 
+The System is an independent Theft Detection and Tracking device which can be mounted in any type of automotive vehicle. 
 It has the capability to detect any kind of consistent movement of the vehicle which then triggers an alarm 
 when the movement exceeds a certain threshold value. The threshold value is maintain as to avoid  false alarms 
 which may be caused due to any kind of slight unintentional movement. The alarm is transmitted to the owner's
